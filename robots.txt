@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://appendix.juanmanuelalloron.com/sitemap.xml
